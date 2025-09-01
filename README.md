@@ -7,4 +7,4 @@ This pack does not require optifine or sodium but it is compatible with them.
 
 This pack has support for respackopts past version 2.0.0
 
-Have an idea for me to add? Click Here and create an issue
+Have an idea for me to add? Go here: https://github.com/cat67315/Restore-the-Classics/issues
